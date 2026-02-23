@@ -1,1 +1,0 @@
-SELECT * FROM dbo.report_customers
